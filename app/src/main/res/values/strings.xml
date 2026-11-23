@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Einkaufszettel</string>
+
+    <string name="title_planning">Zettel planen</string>
+    <string name="title_shopping">Einkauf läuft</string>
+    <string name="label_article">Artikel</string>
+    <string name="btn_add">Hinzufügen</string>
+    <string name="btn_delete">Löschen</string>
+    <string name="btn_start_shopping">Einkauf starten</string>
+    <string name="btn_finish_shopping">Einkauf beenden</string>
+    <string name="hint_assign_category">Kategorie zuordnen</string>
+    <string name="dialog_choose_category">Kategorie wählen</string>
+    <string name="btn_cancel">Abbrechen</string>
+    <string name="section_in_cart">Im Wagen</string>
+    <string name="hint_empty">Der Zettel ist noch leer.</string>
+    <string name="quantity_format">%1$d×</string>
+
+    <string name="cat_fruit_veg">Obst &amp; Gemüse</string>
+    <string name="cat_deli">Feinkost</string>
+    <string name="cat_organic">Bio</string>
+    <string name="cat_bakery">Backwaren</string>
+    <string name="cat_coffee_tea">Kaffee &amp; Tee</string>
+    <string name="cat_breakfast">Frühstück &amp; Cerealien</string>
+    <string name="cat_staples">Grundnahrungsmittel</string>
+    <string name="cat_sweets">Süßigkeiten</string>
+    <string name="cat_specialties">Spezialitäten</string>
+    <string name="cat_pasta_rice">Nudeln &amp; Reis</string>
+    <string name="cat_oil_spices">Öl &amp; Gewürze</string>
+    <string name="cat_dairy">Milch &amp; Butter</string>
+    <string name="cat_meat_cheese">Wurst, Käse &amp; Theke</string>
+    <string name="cat_alcohol">Alkohol</string>
+    <string name="cat_drinks">Getränke</string>
+    <string name="cat_eggs">Eier</string>
+    <string name="cat_snacks">Snacks &amp; Salziges</string>
+    <string name="cat_canned">Konserven</string>
+    <string name="cat_household">Haushalt</string>
+    <string name="cat_drugstore">Drogerie</string>
+    <string name="cat_frozen">Tiefkühl</string>
+    <string name="cat_other">Sonstiges</string>
+</resources>
